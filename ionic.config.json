@@ -1,5 +1,7 @@
 {
   "name": "appMediaShare",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
